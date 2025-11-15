@@ -44,10 +44,7 @@ const SITE_CONFIG = {
 };
 // API站点配置
 const API_SITES = {
-   lebo:{
-      api:'https://lbapi9.com/api.php/provide/vod/at/xml',
-      name: '乐播',
-   },
+  
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
